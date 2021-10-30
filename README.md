@@ -13,3 +13,5 @@ Rules:
 While working at McKesson, I started the Code Workshop / Kata group. This was a kata that was submitted by a co-worker and we had some creative submissions.  
 This one is mine, it's like a map editor-ish thing.  
 My co-worker's submission is [here](https://github.com/aop4/sidescroller), which is pretty darn awesome.
+
+Tileset is `Pixelole's overword Tileset1.0 free`
